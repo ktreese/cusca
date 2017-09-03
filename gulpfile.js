@@ -66,7 +66,20 @@ const paths = {
             path.join(config.node.src, 'prismjs/components/prism-handlebars.js'),
             path.join(config.node.src, 'prismjs/components/prism-json.js'),
             path.join(config.node.src, 'prismjs/components/prism-typescript.js'),
-            path.join(config.node.src, 'prismjs/plugins/file-highlight/prism-file-highlight.js')
+            path.join(config.node.src, 'prismjs/plugins/file-highlight/prism-file-highlight.js'),
+            path.join(config.node.src, 'prismjs/components/prism-puppet.js'),
+            path.join(config.node.src, 'prismjs/components/prism-ruby.js'),
+            path.join(config.node.src, 'prismjs/components/prism-yaml.js'),
+            path.join(config.node.src, 'prismjs/components/prism-python.js'),
+            path.join(config.node.src, 'prismjs/components/prism-docker.js'),
+            path.join(config.node.src, 'prismjs/components/prism-git.js'),
+            path.join(config.node.src, 'prismjs/components/prism-perl.js'),
+            path.join(config.node.src, 'prismjs/components/prism-nginx.js'),
+            path.join(config.node.src, 'prismjs/components/prism-markdown.js'),
+            path.join(config.node.src, 'prismjs/components/prism-http.js'),
+            path.join(config.node.src, 'prismjs/components/prism-sql.js'),
+            path.join(config.node.src, 'prismjs/components/prism-vim.js'),
+	    path.join(config.node.src, 'prismjs/plugins/line-numbers/prism-line-numbers.js')
         ]
     },
     css: {
