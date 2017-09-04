@@ -79,7 +79,8 @@ const paths = {
             path.join(config.node.src, 'prismjs/components/prism-http.js'),
             path.join(config.node.src, 'prismjs/components/prism-sql.js'),
             path.join(config.node.src, 'prismjs/components/prism-vim.js'),
-	    path.join(config.node.src, 'prismjs/plugins/line-numbers/prism-line-numbers.js')
+	    path.join(config.node.src, 'prismjs/plugins/line-numbers/prism-line-numbers.js'),
+	    path.join(config.node.src, 'prismjs/plugins/command-line/prism-command-line.js')
         ]
     },
     css: {
